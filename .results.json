@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2022-04-25T16:00:02.189Z",
-    "end": "2022-04-25T16:00:02.461Z",
-    "duration": 272
+    "start": "2022-04-25T16:06:28.973Z",
+    "end": "2022-04-25T16:06:29.239Z",
+    "duration": 266
   },
   "tests": [
     {
@@ -32,7 +32,7 @@
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
       "file": "/home/the_alchemist/moringa/phase_1/phase-1-control-flow-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -117,7 +117,7 @@
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
       "file": "/home/the_alchemist/moringa/phase_1/phase-1-control-flow-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
